@@ -1,6 +1,5 @@
 body{
 	text-align: center;
-	background-color: blue;
 	margin: 0
 }
 h1{
@@ -9,6 +8,7 @@ h1{
 header{
 	margin: 0
 	text-align: center;
+	background-color: green;
 }
 footer{
 	background-color: yellow;
